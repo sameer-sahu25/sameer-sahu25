@@ -56,22 +56,22 @@ I value readable code, automated tests, and continuous learning.
 
 ### ⭐ Featured Projects
 
-- 🏨 **[Jabalpur-Stays](https://github.com/sameer-sahu25)** — Full-stack hotel management & booking app.  
-  *Tech:* React · Express · PostgreSQL · Authentication · Booking flows
-
-- 🛡️ **[Smart-Inbox-Guard](https://github.com/sameer-sahu25)** — AI-powered email security prototype for spam & phishing detection.  
+- 🛡️ **[Smart-Inbox-Guard](https://github.com/sameer-sahu25/smart-inbox-guard)** — AI-powered email security prototype for spam & phishing detection.  
   *Tech:* React · Node.js · Python (ML) · Model prototyping
 
-- 📝 **[Note Maker](https://github.com/sameer-sahu25)** — Lightweight notes app with clean UI for quick capture and organization.  
+- 🏨 **[Jabalpur-Stays](https://github.com/sameer-sahu25/jabalpur-stays)** — Full-stack hotel management & booking app.  
+  *Tech:* React · Express · PostgreSQL · Authentication · Booking flows
+
+- 📝 **[Note Maker](https://github.com/sameer-sahu25/Note-maker-)** — Lightweight notes app with clean UI for quick capture and organization.  
   *Tech:* HTML · CSS · JavaScript
 
-- 🎨 **[Sandhyarani Portfolio](https://github.com/sameer-sahu25)** — Full-stack portfolio site built for a product designer.  
+- 🎨 **[Sandhyarani Portfolio](https://github.com/sameer-sahu25/sandhyarani-portfolio)** — Full-stack portfolio site built for a product designer.  
   *Tech:* React · Node.js/Express · PostgreSQL
 
-- 🌤️ **[Weather App](https://github.com/sameer-sahu25)** — Real-time weather dashboard with dynamic backgrounds.  
+- 🌤️ **[Weather App](https://github.com/sameer-sahu25/weather-app)** — Real-time weather dashboard with dynamic backgrounds.  
   *Tech:* HTML · CSS · JavaScript · OpenWeather API
 
-- 👟 **[Jordan Landing Page](https://github.com/sameer-sahu25)** — Modern React + Vite landing page with design and animation.  
+- 👟 **[Jordan Landing Page](https://github.com/sameer-sahu25/Jordan-landing-page)** — Modern React + Vite landing page with design and animation.  
   *Tech:* React · Vite · Tailwind CSS
 
 ---
