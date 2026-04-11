@@ -2,8 +2,7 @@
 
 <p align="center">
   <em>Full-stack developer building polished web experiences and practical AI/ML tools.</em><br/>
-  📍 Jabalpur, MP, India &nbsp;|&nbsp; 🌐 <a href="https://github.com/sameer-sahu25">github.com/sameer-sahu25</a>  
-  🌐 <a href="https://sameersahu.vercel.app/">View My Portfolio</a>
+  📍 Jabalpur, MP, India &nbsp;|&nbsp; 🌐 <a href="https://sameersahu.vercel.app/">View My Portfolio</a>
 </p>
 
 ---
