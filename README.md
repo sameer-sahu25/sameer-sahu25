@@ -3,7 +3,7 @@
 <p align="center">
   <em>Full-stack developer building polished web experiences and practical AI/ML tools.</em><br/>
   📍 Jabalpur, MP, India &nbsp;|&nbsp; 🌐 <a href="https://sameersahu.vercel.app/">View My Portfolio</a>
-    <a href="![](https://komarev.com/ghpvc/?username=sameer-sahu25)">
+![](https://komarev.com/ghpvc/?username=sameer-sahu25)
 </p>
                     
 ### 🚀 About Me
