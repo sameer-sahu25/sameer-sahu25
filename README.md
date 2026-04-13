@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sameer Sahu</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameer-sahu25&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
   <em>Full-stack developer building polished web experiences and practical AI/ML tools.</em>
 </p>
 
 <p align="center">
   📍 Jabalpur, MP, India &nbsp;|&nbsp; 🌐 <a href="https://sameersahu.vercel.app/">View My Portfolio</a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer-sahu25&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
+</p>
 </p>
                     
 ### 🚀 About Me
