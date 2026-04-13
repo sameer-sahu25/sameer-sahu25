@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=&fontSize=0" />
 
-<h1 align="center">Hi 👋, I'm Sameer Sahu</h1>
-  
---- 
-  
+ <div>
+   <h1 align="center">Hi 👋, I'm Sameer Sahu </h1> 
+
 <p align="center">
   <em>Full-stack developer building polished web experiences and practical AI/ML tools.</em>
 </p>
@@ -17,9 +16,8 @@
 
 <br/><br/>
 
-
-
 </div>
+
 
 ---
 
