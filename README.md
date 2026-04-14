@@ -75,21 +75,20 @@ Mindset    : Clean Code · Continuous Learning · Teamwork
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🛡️ Smart-Inbox-Guard</h3>
+      <p align="center">=>AI-powered email security prototype detecting spam & phishing with ML model prototyping.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
+       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+    <td width="50%">
       <h3 align="center">🏨 Jabalpur-Stays</h3>
       <p align="center">Full-stack hotel management & booking platform with authentication and complete booking flows.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛡️ Smart-Inbox-Guard</h3>
-      <p align="center">AI-powered email security prototype detecting spam & phishing with ML model prototyping.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       </p>
     </td>
   </tr>
