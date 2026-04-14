@@ -76,7 +76,7 @@ Mindset    : Clean Code · Continuous Learning · Teamwork
   <tr>
     <td width="50%">
       <h3 align="center">🛡️ Smart-Inbox-Guard</h3>
-      <p align="center">=>AI-powered email security prototype detecting spam & phishing with ML model prototyping.</p>
+      <p align="center">AI-powered email security prototype detecting spam & phishing with ML model prototyping.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
