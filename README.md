@@ -111,16 +111,7 @@ Mindset    : Clean Code · Continuous Learning · Teamwork
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🎨 Sandhyarani Portfolio</h3>
-      <p align="center">Full-stack portfolio site built for a product designer with backend API.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+   
 </table>
 
 ---
