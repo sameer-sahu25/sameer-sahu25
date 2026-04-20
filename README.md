@@ -103,17 +103,6 @@ Mindset    : Clean Code · Continuous Learning · Teamwork
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">👟 Jordan Landing Page</h3>
-      <p align="center">Modern React + Vite landing page showcasing smooth design and animation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">📝 Note Maker</h3>
       <p align="center">Lightweight notes app with a clean UI for quick capture and organization.</p>
       <p align="center">
